@@ -29,5 +29,5 @@ docker compose -f compose-dev.yml up -d
 ### Produção
 
 ```bash
-docker compose -f compose-dev.yml up -d
+docker compose -f compose-prd.yml up -d
 ```
